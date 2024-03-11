@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "9e3d",
+      "employeeName": "jithu",
+      "age": "22",
+      "designation": "degree",
+      "experince": "2",
+      "salary": "50000"
+    },
+    {
+      "id": "bea1",
+      "employeeName": "arjun",
+      "age": "25",
+      "designation": "tester",
+      "experince": "2",
+      "salary": "30000"
+    },
+    {
+      "id": "8adc",
+      "employeeName": "jhon",
+      "age": "30",
+      "designation": "developer",
+      "experince": "5",
+      "salary": "80000"
+    }
+  ]
+}
